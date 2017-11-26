@@ -1,3 +1,2 @@
 # Chrome_Extension_StackOverflow
-A customized chrome extension that picks up user actions like search, post, upvote, downvote,scroll and favourite from the user
-and sends it to the backend server residing on localhost.
+A simple Chrome extension that prevents CORS(Cross Origin Resource Sharing), captures user actions like search, post, upvote, downvote,scroll and favourite and sends it to the backend server.
